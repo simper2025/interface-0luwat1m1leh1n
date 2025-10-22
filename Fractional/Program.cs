@@ -3,8 +3,8 @@ using Fractional;
 
 var list = new List<RationalNumber>
 {
-    new RationalNumber(1,7),
     new RationalNumber(4,10),
+    new RationalNumber(1,7),
     new RationalNumber(15,25),
     new RationalNumber(17,23),
     new RationalNumber(12,15),
